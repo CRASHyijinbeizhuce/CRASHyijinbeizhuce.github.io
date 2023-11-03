@@ -14,9 +14,9 @@ title                    : "盛荣 / Academics Page"
 title_separator          : "-"
 name                     : &name "rongsheng"
 description              : &description "Student at XiDian University"
-url                      : https://CRASHyijinbeizhuce.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rosheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "CRASHyijinbeizhuce/CRASHyijinbeizhuce.github.io"
+repository               : "CRASHyijinbeizhuce/rosheng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
